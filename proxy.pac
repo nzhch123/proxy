@@ -64,6 +64,7 @@ var rules = [
     "uniswap.org",
     ".uniswap.org",
     "streamja.com",
+    "*.tokenpocket.pro"	
     ".streamja.com",
     "*.openai.com",
     ".github.com",
